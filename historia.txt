@@ -1,1 +1,1 @@
-Esta es una prueba de git
+Esta es una prueba de versionamiento con git
